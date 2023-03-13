@@ -8,4 +8,4 @@
 
 ### Schema design
 Here's the image of the schema:
-banking
+![banking-schema](https://github.com/nikzayn/golang-banking/blob/master/assets/Banking%20app.png)
